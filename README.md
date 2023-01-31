@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maddiemoffat95
+- 👋 Hi, I’m Mads
 - 👀 I’m interested in Computer Science, Fine Art, and Urban Design
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on digital platforms for physical artists
