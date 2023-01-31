@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maddiemoffat95
 - 👀 I’m interested in Computer Science, Fine Art, and Urban Design
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Digital platforms for physical artists
+- 💞️ I’m looking to collaborate on digital platforms for physical artists
 - 📫 How to reach me maddiemoffat95@gmail.com
 
 <!---
